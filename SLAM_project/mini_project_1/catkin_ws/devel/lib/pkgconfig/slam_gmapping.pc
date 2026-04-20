@@ -1,0 +1,8 @@
+prefix=/home/hamza/mini_projects/mini_project_1/catkin_ws/devel
+
+Name: slam_gmapping
+Description: Description of slam_gmapping
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
